@@ -1,4 +1,4 @@
-# 
+# CleanMyMac X for macOS elite Plugin: safe-browsing & two-factor-authentication is the best CleanMyMac X for macOS plugin, featuring safe-browsing and two-factor-authentication.
 
 
 
